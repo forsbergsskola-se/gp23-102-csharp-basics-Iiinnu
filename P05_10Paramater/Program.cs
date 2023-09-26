@@ -19,3 +19,5 @@ int Fibonacci(int n)
     return current;
 }
  
+ 
+ Console.WriteLine(Fibonacci(4));
