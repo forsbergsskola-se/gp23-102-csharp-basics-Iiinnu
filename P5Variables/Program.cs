@@ -8,11 +8,14 @@
 
     //Place of the king
         string Kingposition = "d1"; //Declaring the variable, Type,Name (assigment operator = VALUE);
+       //access the value 
         Console.WriteLine(Kingposition);
 
 //Move the king
 
+        //Reassignment 
     Kingposition = "d2";
+        //access the value 
     Console.WriteLine(Kingposition); 
 //Here we pass the value on the Variable to the function Writeline.
 
