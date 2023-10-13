@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11IfElse", "P11IfElse\P11I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11IfElse2", "P11IfElse2\P11IfElse2.csproj", "{77425B23-4C17-4D09-B6E4-6A7A76B0C39F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11_1Grades", "P11_1Grades\P11_1Grades.csproj", "{981311C5-6E25-4A66-855D-E02E483DDACB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -120,5 +122,9 @@ Global
 		{77425B23-4C17-4D09-B6E4-6A7A76B0C39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77425B23-4C17-4D09-B6E4-6A7A76B0C39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77425B23-4C17-4D09-B6E4-6A7A76B0C39F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{981311C5-6E25-4A66-855D-E02E483DDACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981311C5-6E25-4A66-855D-E02E483DDACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981311C5-6E25-4A66-855D-E02E483DDACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981311C5-6E25-4A66-855D-E02E483DDACB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
