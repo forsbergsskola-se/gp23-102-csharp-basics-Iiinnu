@@ -27,18 +27,11 @@ Console.WriteLine("Give me an integer");
 int number = int.Parse(Console.ReadLine());
 
 //clean up to code by adding another function so you dont have to repeat code twice
-int max;
-    if (number > age)
-{
-    max = number;
-}
-    else
-    {
-        max = age;
-    }
+var max = number > age ? number : age;
 
 {
     Console.WriteLine($"The maximum is: {max}");
+    
     if (max % 2 == 0) //Modelo divides and and tells how many is left after devided
     //that why its used here. 
 
