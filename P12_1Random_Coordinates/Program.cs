@@ -2,4 +2,10 @@
 
 Random random = new Random();
 
-Console.WriteLine(random.NextDouble().ToString("0.000"));
+int xCoordinate = random.Next(0,100);
+int yCoordinate = random.Next(0,100);
+
+Console.WriteLine("Generate coordinates");
+Console.WriteLine("X Coordinates:" + xCoordinate);
+Console.WriteLine("Y Coordinates:" +yCoordinate);
+
