@@ -50,6 +50,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12Random", "P12Random\P12R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12_2Random_Password", "P12_2Random_Password\P12_2Random_Password.csproj", "{D9CB1F99-71CA-46B8-A718-C20FA6F6C6E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12_3Random_Item", "P12_3Random_Item\P12_3Random_Item.csproj", "{2EE3536A-F382-4303-B744-E75325A04D74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -156,5 +158,9 @@ Global
 		{D9CB1F99-71CA-46B8-A718-C20FA6F6C6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9CB1F99-71CA-46B8-A718-C20FA6F6C6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9CB1F99-71CA-46B8-A718-C20FA6F6C6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE3536A-F382-4303-B744-E75325A04D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE3536A-F382-4303-B744-E75325A04D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE3536A-F382-4303-B744-E75325A04D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE3536A-F382-4303-B744-E75325A04D74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
